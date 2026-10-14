@@ -1,2 +1,0 @@
-# DevOps Training
-# DevOps-Training
